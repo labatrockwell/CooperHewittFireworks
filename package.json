@@ -1,0 +1,14 @@
+{
+  "name": "cooperhewitt-fireworks",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "chroma-js": "^0.6.3",
+    "connect": "^3.3.5",
+    "node-cooperhewitt": "0.0.2",
+    "serve-static": "^1.9.2"
+  }
+}
