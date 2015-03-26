@@ -1,0 +1,503 @@
+{
+  "meta": {
+    "generated": "1401380327373",
+    "app": "cooperhewitt-fireworks",
+    "url": "http://nickbartzokas.com",
+    "version": "0.1",
+    "copyright": "http://nickbartzokas.com"
+  },
+  "swatches": [
+    {
+      "type": "image",
+      "key": "da70d6_0",
+      "url": "colors/da70d6/47419_43bcd49bd5631df1_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "da70d6_1",
+      "url": "colors/da70d6/10544_6316711eb7d5f90c_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "da70d6_2",
+      "url": "colors/da70d6/3403_be3a03499fabb7fc_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "da70d6_3",
+      "url": "colors/da70d6/85994_e6e65507a93f8d1a_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "dc143c_4",
+      "url": "colors/dc143c/6833_d2483554f0cd69f6_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "dc143c_5",
+      "url": "colors/dc143c/75162_71c629e8c58a3278_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "dc143c_6",
+      "url": "colors/dc143c/75847_939ebf20c0d339cf_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "dc143c_7",
+      "url": "colors/dc143c/8030_b6fc3fde16e4405f_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "dc143c_8",
+      "url": "colors/dc143c/73492_be8e0ca4ce271c76_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "dc143c_9",
+      "url": "colors/dc143c/74642_af195404c932968f_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "dc143c_10",
+      "url": "colors/dc143c/64191_cd74c13654f15eea_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "dc143c_11",
+      "url": "colors/dc143c/72471_dc495cea6314f091_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "dc143c_12",
+      "url": "colors/dc143c/68602_e77e5a506db45d07_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "da70d6_13",
+      "url": "colors/da70d6/43390_9bcd40a1dcc40c36_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "dc143c_14",
+      "url": "colors/dc143c/68332_9b3f528295cc51a0_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "da70d6_15",
+      "url": "colors/da70d6/75776_c8e6efb3ea74f0d2_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "da70d6_16",
+      "url": "colors/da70d6/85996_9471c30bd046e59b_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "da70d6_17",
+      "url": "colors/da70d6/42749_de084ceee5109592_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "da70d6_18",
+      "url": "colors/da70d6/3471_1a8d45a9a937d51a_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "90ee90_19",
+      "url": "colors/90ee90/48770_8ef6cf10aecca2ea_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4169e1_20",
+      "url": "colors/4169e1/6242_ab39548d0f4d0780_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4169e1_21",
+      "url": "colors/4169e1/3738_6600c279665fef09_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4169e1_22",
+      "url": "colors/4169e1/3797_eabc09fdfd6f3625_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4169e1_23",
+      "url": "colors/4169e1/19285_1a409f5abb06cb69_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4169e1_24",
+      "url": "colors/4169e1/46832_2357989456349418_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4169e1_25",
+      "url": "colors/4169e1/12191_448bc85c17579289_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4169e1_26",
+      "url": "colors/4169e1/8334_eef049b3eefb8a65_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4169e1_27",
+      "url": "colors/4169e1/50757_023a2f267bbea8f7_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4169e1_28",
+      "url": "colors/4169e1/51095_024d7eff8f003aaf_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "90ee90_29",
+      "url": "colors/90ee90/40990_3c5d4e2512db9f2f_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "90ee90_30",
+      "url": "colors/90ee90/17290_f8485bbd7e700eed_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "90ee90_31",
+      "url": "colors/90ee90/44334_2aa22b05476c75bf_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "90ee90_32",
+      "url": "colors/90ee90/40782_120df322d758f03d_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "90ee90_33",
+      "url": "colors/90ee90/68325_4d3af3303e721183_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "90ee90_34",
+      "url": "colors/90ee90/41060_f063a6949e7214d6_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "90ee90_35",
+      "url": "colors/90ee90/46862_61179700debd13d8_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "90ee90_36",
+      "url": "colors/90ee90/65176_a75f98e09cacc6f0_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3cb371_37",
+      "url": "colors/3cb371/49173_6c963ef196db2539_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3cb371_38",
+      "url": "colors/3cb371/38541_4e25179ee8d51df5_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3cb371_39",
+      "url": "colors/3cb371/48466_382395128e38bfaa_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3cb371_40",
+      "url": "colors/3cb371/48251_436f7b4d72281655_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3cb371_41",
+      "url": "colors/3cb371/17091_3cf486287124e12f_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3cb371_42",
+      "url": "colors/3cb371/42867_281eabe79619b95c_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3cb371_43",
+      "url": "colors/3cb371/54012_96e5c9ca892f4c25_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3cb371_44",
+      "url": "colors/3cb371/64031_5f3713e03866394c_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3cb371_45",
+      "url": "colors/3cb371/68520_ffeaa9fe5fee7f5e_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "87cefa_46",
+      "url": "colors/87cefa/16181_f0e36f2761316345_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "87cefa_47",
+      "url": "colors/87cefa/37475_b59c8003025ff81e_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffff00_48",
+      "url": "colors/ffff00/49192_772cdc16697d6119_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffa500_49",
+      "url": "colors/ffa500/14691_a70ef8b5074deaf4_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffa500_50",
+      "url": "colors/ffa500/14014_9b4735db97b2120c_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffa500_51",
+      "url": "colors/ffa500/8445_11986966736925ed_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffa500_52",
+      "url": "colors/ffa500/20240_63049dd7d9e26fb9_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffa500_53",
+      "url": "colors/ffa500/42855_e9fef12e9fb4cca4_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffa500_54",
+      "url": "colors/ffa500/49876_43934e2746acb984_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffa500_55",
+      "url": "colors/ffa500/81326_0e2a5fbcb8a50859_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffa500_56",
+      "url": "colors/ffa500/35398_3a6195ab29df5946_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffa500_57",
+      "url": "colors/ffa500/15492_ce065e185757f3b8_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffff00_58",
+      "url": "colors/ffff00/13116_6f6f63e8ae7452e7_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffff00_59",
+      "url": "colors/ffff00/44521_22beb017d55fa853_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffff00_60",
+      "url": "colors/ffff00/38622_5b0234eb03383a2b_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffff00_61",
+      "url": "colors/ffff00/43754_54a29ba24b62dc34_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffff00_62",
+      "url": "colors/ffff00/50029_280c43c68ef3bcd8_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffff00_63",
+      "url": "colors/ffff00/63534_6b06c3661f795435_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffff00_64",
+      "url": "colors/ffff00/14684_e70e5df61335d272_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffff00_65",
+      "url": "colors/ffff00/63934_2edf1595b40d8755_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ff0000_66",
+      "url": "colors/ff0000/17682_0967e71187d7695c_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ff0000_67",
+      "url": "colors/ff0000/62988_1353a6d56f9ff667_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ff0000_68",
+      "url": "colors/ff0000/4780_ea31c60c649b5aac_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ff0000_69",
+      "url": "colors/ff0000/36426_a562994b97731dd1_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffd700_70",
+      "url": "colors/ffd700/42765_44ddcfffb9c6b5d2_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffd700_71",
+      "url": "colors/ffd700/55154_61046cf4328f38c5_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffd700_72",
+      "url": "colors/ffd700/50763_914004c1aa223027_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffd700_73",
+      "url": "colors/ffd700/65128_c3b9271e1c394bb4_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffd700_74",
+      "url": "colors/ffd700/64314_57cd71c9120637ac_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffd700_75",
+      "url": "colors/ffd700/39297_adb10d1bb3c12da9_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffd700_76",
+      "url": "colors/ffd700/4787_8b3d40df0b56541f_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ffd700_77",
+      "url": "colors/ffd700/5129_8b3d40df0b56541f_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ff0000_78",
+      "url": "colors/ff0000/4780_ea31c60c649b5aac_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ff0000_79",
+      "url": "colors/ff0000/19502_cfda0cc38e447709_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ff0000_80",
+      "url": "colors/ff0000/8258_5ddd9a311e6ccd8f_sq.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ff0000_81",
+      "url": "colors/ff0000/69109_172730fc2f7ad670_sq.jpg",
+      "overwrite": false
+    }
+  ]
+}
